@@ -1,0 +1,18 @@
+.header{
+   height: 100px;
+   width: 100%;
+   border-radius: 7px;
+background: #707070;
+box-shadow: inset 6px 6px 8px #525252,
+            inset -6px -6px 8px #8e8e8e;
+}
+
+
+.todo{
+    display: flex;
+    flex-direction: column; 
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+   
